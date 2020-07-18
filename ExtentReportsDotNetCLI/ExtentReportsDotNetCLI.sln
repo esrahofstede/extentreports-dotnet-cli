@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.106
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtentReportsDotNetCLI", "ExtentReportsDotNetCLI\ExtentReportsDotNetCLI.csproj", "{ECEBD196-7F6A-428B-91B1-5DA6318D7D8D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "extent", "ExtentReportsDotNetCLI\extent.csproj", "{ECEBD196-7F6A-428B-91B1-5DA6318D7D8D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

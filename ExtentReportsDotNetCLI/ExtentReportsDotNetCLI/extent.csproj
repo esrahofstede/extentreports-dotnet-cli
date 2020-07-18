@@ -24,9 +24,11 @@
      You can specify all the values or you can default the Build and Revision Numbers
      by using the '*' like "1.0.*" -->
     <AssemblyVersion>0.1.0.0</AssemblyVersion>
-    <PackageVersion>0.1.0.0</PackageVersion>
+    <PackageVersion>1.0.1.0</PackageVersion>
     <FileVersion>0.1.0.0</FileVersion>
     <Authors>anshooarora</Authors>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <PackageProjectUrl>https://github.com/extent-framework/extentreports-dotnet-cli</PackageProjectUrl>
     <PackageLicenseUrl>https://github.com/extent-framework/extentreports-dotnet-cli/blob/master/LICENSE</PackageLicenseUrl>
     <RepositoryUrl>https://github.com/extent-framework/extentreports-dotnet-cli</RepositoryUrl>
